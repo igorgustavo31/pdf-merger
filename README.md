@@ -19,4 +19,4 @@ Um utilitário simples em Python que une vários arquivos PDF de uma pasta em um
 1. Instale a biblioteca necessária:
 
 ```bash
-python3.9 -m pip install PyPDF2
+pip install PyPDF2
