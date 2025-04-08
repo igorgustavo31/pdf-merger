@@ -20,9 +20,3 @@ Um utilitário simples em Python que une vários arquivos PDF de uma pasta em um
 
 ```bash
 pip install PyPDF2
-
-
-
-
-
-
