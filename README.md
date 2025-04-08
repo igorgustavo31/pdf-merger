@@ -21,3 +21,14 @@ Um utilitário simples em Python que une vários arquivos PDF de uma pasta em um
 ```bash
 pip install PyPDF2
 
+
+Antes de rodar o código:
+![image](https://github.com/user-attachments/assets/1f312c67-4544-4c7e-83b0-d8f30edc8134)
+
+Após rodar o código:
+![image](https://github.com/user-attachments/assets/f7307298-a604-469b-9f2a-91f5e9848eb0)
+
+Já com o arquivo Meu_plano_de_ensino.pdf, salvo na pasta.
+
+
+
