@@ -5,9 +5,9 @@ Um utilitário simples em Python que une vários arquivos PDF de uma pasta em um
 🚀 Funcionalidades
 
 - Junta todos os arquivos PDF de uma pasta
-- Permite definir um arquivo como primeira página (ex: "plano de ensino completo")
+- Permite definir um arquivo como primeira página (ex: "meu_primeiro_arquivo")
 - Ordena os demais por data de modificação
-- Salva tudo em um novo arquivo final (ex: `Meu_plano_de_ensino.pdf`)
+- Salva tudo em um novo arquivo final (ex: `meu_primeiro_arquivo.pdf`)
 
 🧰 Tecnologias
 
